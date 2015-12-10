@@ -1,0 +1,22 @@
+.mainFxmlClass {
+    -fx-background-color: dimgray;
+}
+.buttonStyleOne {
+    -fx-background-color: dimgray;
+    -fx-border-color: dimgray;
+    -fx-background-insets: 0 0 0 0, 0, 1, 2;
+    -fx-cursor: hand;
+}
+.buttonStyleTwo {
+    -fx-background-color: slategray;
+    -fx-border-color: slategray;
+    -fx-background-insets: 0 0 0 0, 0, 1, 2; 
+    -fx-cursor: hand;
+}
+.editText {
+    -fx-border-color: white;
+    -fx-background-color: white;
+    -fx-text-alignment: right;
+    -fx-background-insets: 0 0 0 0, 0, 0, 0; 
+}
+
